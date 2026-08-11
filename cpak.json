@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "name": "GIMP",
   "description": "Create images and edit photographs.",
-  "version": "3.0.0",
+  "version": "3.2.2",
   "image": "ghcr.io/containerpak/gimp:main",
   "binaries": ["/usr/bin/gimp"],
   "desktop_entries": ["/usr/share/applications/org.gimp.GIMP.desktop"],
