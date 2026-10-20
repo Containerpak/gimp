@@ -4,7 +4,7 @@
   "name": "GIMP",
   "description": "Create images and edit photographs.",
   "version": "3.2.2",
-  "image": "ghcr.io/containerpak/gimp@sha256:83fe49ab0f95144ff2fd8c6aac44ad58fbb36721f091f1bbf77530e63e096246",
+  "image": "ghcr.io/containerpak/gimp@sha256:b4c07d06feba10727b2372bf812216299fd84b991ffaa3f499a1d9b36ddf4bf0",
   "binaries": [
     "/usr/bin/gimp"
   ],
